@@ -47,7 +47,7 @@ if __name__ == "__main__":
             "flake8",
             "hjson",
             "jsonschema",
-            "milc>=1.0.8",
+            "milc>=1.0.8,<1.1.0",
             "nose2",
             "pygments",
             "yapf"
